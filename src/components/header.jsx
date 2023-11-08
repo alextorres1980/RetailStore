@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { Authenticator, useAuthenticator } from "@aws-amplify/ui-react";
 
 import Modal from "@cloudscape-design/components/modal";
 import TopNavigation from "@cloudscape-design/components/top-navigation";

@@ -10,6 +10,11 @@
       "StackName": "amplify-retailstore-dev-185420",
       "StackId": "arn:aws:cloudformation:us-west-2:179409628499:stack/amplify-retailstore-dev-185420/39f7be20-7e68-11ee-8814-0a88132bbfaf",
       "AmplifyAppId": "d2kowifhmms9yr"
+    },
+    "categories": {
+      "auth": {
+        "retailstore888d1605": {}
+      }
     }
   },
   "test": {
