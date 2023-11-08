@@ -27,5 +27,10 @@
       "service": "Cognito"
     }
   },
-  "storage": {}
+  "storage": {
+    "dynamo910b5b6d": {
+      "providerPlugin": "awscloudformation",
+      "service": "DynamoDB"
+    }
+  }
 }
