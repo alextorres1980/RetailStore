@@ -27,11 +27,5 @@
       "service": "Cognito"
     }
   },
-  "storage": {
-    "amplifytestbucket": {
-      "dependsOn": [],
-      "providerPlugin": "awscloudformation",
-      "service": "S3"
-    }
-  }
+  "storage": {}
 }
