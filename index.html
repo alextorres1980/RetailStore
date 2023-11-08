@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="RetailStore application using AWS Amplify"
+    />
+    <link rel="manifest" href="/manifest.json" />
+    <title>RetailStore</title>
+  </head>
+  <body style="padding-bottom: 40px;">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      window.global = window;
+      window.process = {
+        env: { DEBUG: undefined },
+      };
+    </script>
+  </body>
+</html>
