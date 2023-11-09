@@ -37,7 +37,8 @@
         "retailstore888d1605": {}
       },
       "storage": {
-        "amplifytestbucket": {}
+        "amplifytestbucket": {},
+        "dynamo910b5b6d": {}
       }
     }
   }
