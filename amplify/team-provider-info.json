@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "retailstore888d1605": {}
+      },
+      "storage": {
+        "dynamo910b5b6d": {}
       }
     }
   },
