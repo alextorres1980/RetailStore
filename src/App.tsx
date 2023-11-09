@@ -23,6 +23,7 @@ function App() {
               element={<Product />}
             />
           </Routes>
+          <h2>This is my change to update the UI</h2>
           <Footer />
         </Router>
       </Authenticator.Provider>
