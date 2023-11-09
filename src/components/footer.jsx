@@ -9,6 +9,7 @@ export default function Footer(props) {
           <strong>
             The RetailStore is a demo application. All content displayed in the RetailStore is fictitious and for demonstration purposes only.<br/>
             All images shown are from Unsplash.</strong>
+          <h2> this is an extra line to test updates and commits.</h2>
         </div>
       </div>
     </footer>
