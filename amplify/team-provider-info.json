@@ -35,6 +35,10 @@
     "categories": {
       "auth": {
         "retailstore888d1605": {}
+      },
+      "storage": {
+        "amplifytestbucket": {},
+        "dynamo910b5b6d": {}
       }
     }
   }
